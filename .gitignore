@@ -1,4 +1,14 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# === SAS Files to Ignore ===
+
+*.log
+*.lst
+*.rtf
+*.pdf
+*.html
+*.sasmacr
+
+# SAS Catalog and Utility Files
+*.sas7bcat
+
+# SAS Data Files 
+*.sas7bdat
